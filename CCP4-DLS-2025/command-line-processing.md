@@ -2,7 +2,7 @@
 
 ## Data
 
-To process the data locally using DIALS you will need a copy of the dataset on your computer. At the Diamond workshop, the data set can be found in the directory `/FIXME`. Outside of the workshop, you can download it from [this link](https://ccp4serv6.rc-harwell.ac.uk/jscofe-dev/tmp/ADH4.zip).
+To process the data locally using DIALS you will need a copy of the dataset on your computer. At the Diamond workshop, the data set can be found in the directory `/dls/mx/data/mx43974/mx43974-5/processing/THAS1/images_1-800/`. Outside of the workshop, you can download it from [this link](https://ccp4serv6.rc-harwell.ac.uk/jscofe-dev/tmp/ADH4.zip).
 
 ## Summary
 
@@ -379,4 +379,5 @@ Now import your `scaled.mtz` from DIALS processing, and also follow that with a 
 Once both jobs have finished you can open both results windows to compare results side-by-side. Navigate to the "Scaling and merging" section in each case to compare merging statistics from Aimless.
 
 Which job looks better, yours or xia2's? Or are they about the same?
+
 
